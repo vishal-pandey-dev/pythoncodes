@@ -1,4 +1,4 @@
- def checkprimenumber():checkprimenumber():
+ def checkprimenumber():
     h=int(input())
     for i in range(2,h):
         if h%i==0:
