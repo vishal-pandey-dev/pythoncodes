@@ -1,0 +1,5 @@
+def call():
+    p=int(input(Enter the number:))
+    print()
+    print("Cube root of",p,"is"p**1/3)
+call()
