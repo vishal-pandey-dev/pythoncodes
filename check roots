@@ -1,0 +1,9 @@
+def call():
+    p=int(input(Enter the number:))
+    print()
+    print("square root of",p,"is"p**1/2)
+    print("Cube root of",p,"is"p**1/3)
+    print("forth root of",p,"is"p**1/4)
+    print("fifth root of",p,"is"p**1/5)
+    print("sixth root of",p,"is"p**1/6)
+call()
